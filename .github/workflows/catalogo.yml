@@ -1,0 +1,29 @@
+name: Catalogo
+on:
+  schedule:
+    - cron: '43 3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+jobs:
+  catalogo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Datos publicados anteriores
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: publicado
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node src/catalogo.mjs publicado
+      - run: ./publicar.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
