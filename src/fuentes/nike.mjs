@@ -60,7 +60,9 @@ export async function nike(log) {
           salida.push({
             fuente: 'nike',
             sku,
-            nombre: pc.fullTitle || pc.title || null,
+            // Nombre limpio («NOCTA Air Modmax», sin «Zapatillas - Hombre»); si el hilo trae varias tallas de la misma
+            // zapatilla (adulto, niño, bebé), se añade el subtítulo para distinguirlas.
+            nombre: (pc.title && ((o.productInfo || []).filter((x) => x.productContent?.title === pc.title).length > 1 && pc.subtitle ? `${pc.title} · ${pc.subtitle}` : pc.title)) || pc.fullTitle || null,
             marca: /jordan/i.test(pc.fullTitle || '') ? 'Jordan' : 'Nike',
             colorway: pc.colorDescription || null,
             fecha,
