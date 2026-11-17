@@ -3,7 +3,7 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { PAISES } from './paises.mjs';
-import { nike, imagenNike } from './fuentes/nike.mjs';
+import { nike } from './fuentes/nike.mjs';
 import { kicksfinder } from './fuentes/kicksfinder.mjs';
 import { lesitedelasneaker } from './fuentes/lesitedelasneaker.mjs';
 import { sneakernews, sneakerfiles, sneakerbardetroit, hypebeast, sneakerjagers } from './fuentes/editoriales.mjs';
@@ -68,7 +68,7 @@ function fusionar(grupo, pais) {
     dia, // AAAA-MM-DD
     precio: precioLocal || primero('precio'),
     metodo: g.find((x) => x.metodo)?.metodo ?? null,
-    imagen: g.find((x) => x.imagen)?.imagen ?? (sku && /nike|jordan/i.test(marca || '') ? imagenNike(sku) : null),
+    imagen: g.find((x) => x.imagen)?.imagen ?? null,
     tiendas,
     fuentes: [...new Map(g.map((x) => [x.fuente, { nombre: NOMBRES[x.fuente] || x.fuente, url: x.url }])).values()],
   };

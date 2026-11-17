@@ -48,7 +48,7 @@ async function main() {
           const lanzamiento = vigilar[sku]?.lanzamiento;
           const esLanzamiento = lanzamiento && Math.abs(new Date(lanzamiento).getTime() - Date.now()) < 36 * 3600e3;
           if (vuelven.length) {
-            eventos.push({ sku, nombre: vigilar[sku]?.nombre || null, tipo: esLanzamiento ? 'lanzamiento' : nadaAntes ? 'restock' : 'tallas', tallas: vuelven, hora: ahora, imagen: `https://secure-images.nike.com/is/image/DotCom/${sku.replace('-', '_')}` });
+            eventos.push({ sku, nombre: vigilar[sku]?.nombre || null, tipo: esLanzamiento ? 'lanzamiento' : nadaAntes ? 'restock' : 'tallas', tallas: vuelven, hora: ahora });
           }
         }
         if (Object.keys(ahoraNiveles).length) modelos[sku] = { niveles: ahoraNiveles, visto: ahora };

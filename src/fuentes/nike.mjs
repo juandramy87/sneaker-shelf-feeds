@@ -5,7 +5,13 @@ import { PAISES } from '../paises.mjs';
 
 const CANAL_SNKRS = '010794e5-35fe-4e32-aaff-cd2c74f89d61';
 
-export const imagenNike = (sku) => (/^[A-Z]{2}\d{4}-\d{3}$/.test(sku) ? `https://secure-images.nike.com/is/image/DotCom/${sku.replace('-', '_')}` : null);
+// Imagen del lanzamiento: la del carrusel del hilo que lleva el SKU en el nombre; si no, la de la portada.
+function imagenDeHilo(o, sku) {
+  const urls = [...new Set(JSON.stringify(o.publishedContent || {}).match(/https:\/\/static\.nike\.com\/a\/images\/[^"\\]+?\.(?:png|jpg|jpeg)/gi) || [])];
+  const propia = urls.find((u) => u.toLowerCase().includes(sku.toLowerCase()) && /t_prod_ss|w_960/.test(u));
+  const portada = o.publishedContent?.properties?.coverCard?.properties?.squarishURL;
+  return propia || portada || urls.find((u) => /t_prod_ss/.test(u)) || null;
+}
 
 function urlFeed(mercado, idioma, anchor, version) {
   const f = [`marketplace(${mercado})`, `language(${idioma})`, 'upcoming(true)', `channelId(${CANAL_SNKRS})`];
@@ -64,7 +70,7 @@ export async function nike(log) {
             paises: [p.codigo],
             tiendas: [{ nombre: 'Nike SNKRS', url: slug ? `https://www.nike.com/${p.codigo === 'us' ? '' : p.codigo + '/'}launch/t/${slug}` : `https://www.nike.com/${p.codigo === 'us' ? '' : p.codigo + '/'}launch`, tipo: lv.method === 'LEO' ? 'sorteo' : lv.method === 'DAN' ? 'llegada' : null, paises: [p.codigo] }],
             url: `https://www.nike.com/${p.codigo === 'us' ? '' : p.codigo + '/'}launch`,
-            imagen: imagenNike(sku),
+            imagen: imagenDeHilo(o, sku),
             genero: mp.genders || null,
           });
           n++;
