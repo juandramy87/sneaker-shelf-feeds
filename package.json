@@ -1,0 +1,11 @@
+{
+  "name": "sneaker-shelf-feeds",
+  "private": true,
+  "type": "module",
+  "description": "Calendario mundial de lanzamientos de zapatillas y restocks de Nike, publicado en GitHub Pages.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "calendario": "node src/calendario.mjs publicado",
+    "restock": "node src/restock.mjs publicado"
+  }
+}
