@@ -4,7 +4,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { PAISES } from './paises.mjs';
 import { nike } from './fuentes/nike.mjs';
-import { kicksfinder } from './fuentes/kicksfinder.mjs';
+import { kicksfinder, fotoPorSku } from './fuentes/kicksfinder.mjs';
 import { lesitedelasneaker } from './fuentes/lesitedelasneaker.mjs';
 import { sneakernews, sneakerfiles, sneakerbardetroit, hypebeast, sneakerjagers } from './fuentes/editoriales.mjs';
 import { diasAtras, hoyIso } from './util.mjs';
@@ -42,6 +42,9 @@ const tiendaAplica = (t, pais) => (t.paises ? t.paises.includes(pais.codigo) : !
 const orden = (a) => { const i = PRIORIDAD.indexOf(a.fuente); return i < 0 ? 99 : i; };
 const diaDe = (x) => (x.fecha ? x.fecha.slice(0, 10) : x.dia);
 
+// Fotos por SKU buscadas en Kicksfinder (se guardan entre ejecuciones; null = no hay).
+let FOTOS = {};
+
 function fusionar(grupo, pais) {
   const g = [...grupo].sort((a, b) => orden(a) - orden(b));
   const primero = (campo) => g.find((x) => x[campo])?.[campo] ?? null;
@@ -68,7 +71,8 @@ function fusionar(grupo, pais) {
     dia, // AAAA-MM-DD
     precio: precioLocal || primero('precio'),
     metodo: g.find((x) => x.metodo)?.metodo ?? null,
-    imagen: g.find((x) => x.imagen)?.imagen ?? null,
+    // Primero la foto de producto sobre blanco (Kicksfinder), que el móvil recorta limpia; luego la de Nike.
+    imagen: g.find((x) => x.fuente === 'kicksfinder' && x.imagen)?.imagen ?? (sku && FOTOS[sku]?.url) ?? g.find((x) => x.imagen)?.imagen ?? null,
     tiendas,
     fuentes: [...new Map(g.map((x) => [x.fuente, { nombre: NOMBRES[x.fuente] || x.fuente, url: x.url }])).values()],
   };
@@ -122,6 +126,21 @@ async function main() {
 
   await mkdir(join(SALIDA, 'calendario'), { recursive: true });
   await mkdir(join(SALIDA, 'datos'), { recursive: true });
+
+  // Fotos que faltan: se buscan por SKU en Kicksfinder (como mucho 200 por ejecución; los fallos se reintentan a los 7 días).
+  try { FOTOS = JSON.parse(await readFile(join(SALIDA, 'datos', 'fotos.json'), 'utf8')); } catch {}
+  const conFotoKf = new Set(validos.filter((a) => a.fuente === 'kicksfinder' && a.imagen && a.sku).map((a) => a.sku));
+  const reintento = diasAtras(7);
+  const pendientes = [...new Set(validos.map((a) => a.sku).filter(Boolean))]
+    .filter((sku) => !conFotoKf.has(sku) && !(FOTOS[sku] && (FOTOS[sku].url || FOTOS[sku].visto >= reintento)))
+    .slice(0, 200);
+  let halladas = 0;
+  for (const sku of pendientes) {
+    try { const url = await fotoPorSku(sku); FOTOS[sku] = { url, visto: hoyIso() }; if (url) halladas++; } catch { break; }
+    await new Promise((r) => setTimeout(r, 300));
+  }
+  log(`fotos: ${pendientes.length} buscadas, ${halladas} encontradas`);
+  await writeFile(join(SALIDA, 'datos', 'fotos.json'), JSON.stringify(FOTOS));
   const indice = [];
   const mundial = new Map();
   for (const pais of PAISES) {

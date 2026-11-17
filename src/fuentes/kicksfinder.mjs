@@ -4,6 +4,16 @@ import { pedir, esperar, normalizarSku, horaLocalAUtc, hoyIso, diasAtras, precio
 import { zonasDeRegion } from '../paises.mjs';
 
 const BASE = 'https://admin.kicksfinder.com/api';
+
+// Foto de producto de Kicksfinder (perfil sobre fondo blanco, como las de StockX); su imagen genérica no vale.
+export const fotoKicksfinder = (url) => (typeof url === 'string' && /^https:\/\//.test(url) && !url.includes('1619696123') ? url : null);
+
+// Busca la foto de un SKU (para lanzamientos de otras fuentes).
+export async function fotoPorSku(sku) {
+  const d = await pedir(`${BASE}/products?perpage=5&page=1&search=${encodeURIComponent(sku)}`);
+  const p = (d.result?.data?.data || []).find((x) => normalizarSku(x.sku) === sku);
+  return fotoKicksfinder(p?.product_thumbnail);
+}
 const MAX_DETALLES = 450;
 
 export async function kicksfinder(log) {
@@ -35,6 +45,7 @@ export async function kicksfinder(log) {
       precio: precio(p.price, 'USD'),
       zonas: [...new Set((p.show_regions || '').split('/').flatMap((r) => zonasDeRegion(r.trim())))],
       tiendas: [],
+      imagen: fotoKicksfinder(p.product_thumbnail),
       url: `https://kicksfinder.com/${p.slug}`,
     };
     if (!base.zonas.length) base.zonas = ['us', 'na'];
