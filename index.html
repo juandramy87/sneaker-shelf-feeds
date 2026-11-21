@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sneaker Shelf · Feeds</title>
+<style>
+:root{--f:#111213;--t:#f2f2f2;--s:#9a9a9a;--a:#e8ff47;--b:#26282b}
+body{margin:0;background:var(--f);color:var(--t);font:15px/1.5 system-ui,sans-serif;padding:24px 16px;max-width:860px;margin:auto}
+h1{font-size:22px;letter-spacing:1px}a{color:var(--a)}table{width:100%;border-collapse:collapse;margin:16px 0}
+td,th{border-bottom:1px solid var(--b);padding:8px 6px;text-align:left}th{color:var(--s);font-weight:500}small{color:var(--s)}
+</style></head><body>
+<h1>SNEAKER SHELF · FEEDS</h1>
+<p>Calendario mundial de lanzamientos de zapatillas (JSON e iCal por país) y restocks de Nike talla a talla. Datos públicos: nombre, código de estilo, fecha, precio y enlaces a la fuente.</p>
+<table id="t"><tr><th>País</th><th>Lanzamientos</th><th>JSON</th><th>Calendario</th></tr></table>
+<p><a href="calendario/global.json">global.json</a> · <a href="restock/index.json">restock</a> (<a href="restock/eu.json">EU</a>, <a href="restock/us.json">US</a>, <a href="restock/jp.json">JP</a>, <a href="restock/cn.json">CN</a>)</p>
+<p><small id="u"></small></p>
+<script>
+fetch('calendario/index.json').then(r=>r.json()).then(d=>{
+  const t=document.getElementById('t');
+  for(const p of d.paises){const r=t.insertRow();r.innerHTML=`<td>${p.pais.toUpperCase()} · ${p.nombre}</td><td>${p.total}</td><td><a href="calendario/${p.pais}.json">json</a></td><td><a href="calendario/${p.pais}.ics">ics</a></td>`}
+  document.getElementById('u').textContent='Actualizado: '+new Date(d.actualizado).toLocaleString()+' · Fuentes: '+Object.entries(d.fuentes).map(([k,v])=>k+(v.ok?' ✓ '+v.elementos:' ✗')).join(', ');
+});
+</script></body></html>

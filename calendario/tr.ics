@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sneaker Shelf//Lanzamientos//ES
+X-WR-CALNAME:Sneaker releases TR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:JJ7604001-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Travis Scott x Rockstar x Nike Air Force 1 Low ’07 “GTA 6” (JJ7604
+ -001)
+DESCRIPTION:Black/Fire Pink\, White/Fire Pink\n130 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:JJ7602100-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Travis Scott x Rockstar x Nike Air Force 1 Low ’07 “GTA 6” (JJ7602
+ -100)
+DESCRIPTION:Black/Fire Pink\, White/Fire Pink\n130 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4880001-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T110000Z
+DTEND:20261127T113000Z
+SUMMARY:Jordan 4 Retro OG "Bred" · Bebek Ayakkabısı (IX4880-001)
+DESCRIPTION:Siyah/Cement Grey/Summit White/Fire Red\n4299 TRY\nNike SNKRS:
+  https://www.nike.com/tr/launch/t/jordan-4-retro-og-bred-bebek-ayakkabisi-
+ lCO7egVJ
+URL:https://www.nike.com/tr/launch/t/jordan-4-retro-og-bred-bebek-ayakkabi
+ si-lCO7egVJ
+END:VEVENT
+BEGIN:VEVENT
+UID:IX8180001-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T110000Z
+DTEND:20261127T113000Z
+SUMMARY:Air Jordan 4 Retro OG "Bred" · Erkek Ayakkabısı (IX8180-001)
+DESCRIPTION:Siyah/Cement Grey/Summit White/Fire Red\n12999 TRY\nNike SNKRS
+ : https://www.nike.com/tr/launch/t/air-jordan-4-retro-og-bred-erkek-ayakka
+ bisi-uBJRhpJi
+URL:https://www.nike.com/tr/launch/t/air-jordan-4-retro-og-bred-erkek-ayak
+ kabisi-uBJRhpJi
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4857001-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T110000Z
+DTEND:20261127T113000Z
+SUMMARY:Air Jordan 4 Retro OG "Bred" · Büyük Çocuk Ayakkabısı (IX4857-001)
+DESCRIPTION:Siyah/Cement Grey/Summit White/Multi-Color\n9999 TRY\nNike SNK
+ RS: https://www.nike.com/tr/launch/t/air-jordan-4-retro-og-bred-buyuk-cocu
+ k-ayakkabisi-gQsah42s
+URL:https://www.nike.com/tr/launch/t/air-jordan-4-retro-og-bred-buyuk-cocu
+ k-ayakkabisi-gQsah42s
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4879001-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T110000Z
+DTEND:20261127T113000Z
+SUMMARY:Jordan 4 Retro OG "Bred" · Küçük Çocuk Ayakkabısı (IX4879-001)
+DESCRIPTION:Siyah/Cement Grey/Summit White/Fire Red\n5599 TRY\nNike SNKRS:
+  https://www.nike.com/tr/launch/t/jordan-4-retro-og-bred-kucuk-cocuk-ayakk
+ abisi-CYJf8g0f
+URL:https://www.nike.com/tr/launch/t/jordan-4-retro-og-bred-kucuk-cocuk-ay
+ akkabisi-CYJf8g0f
+END:VEVENT
+BEGIN:VEVENT
+UID:U18901CY-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:UP THERE x New Balance 1890 “Horizon” (U18901CY)
+DESCRIPTION:TBC\n280 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:1185590GHG-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:WTAPS x HOKA Speedgoat TS (1185590-GHG)
+DESCRIPTION:Galactic Grey/High Rise\, Black/Volcanic Ash\n175 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:1185590BKVL-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:WTAPS x HOKA Speedgoat TS (1185590-BKVL)
+DESCRIPTION:Galactic Grey/High Rise\, Black/Volcanic Ash\n175 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:378038900-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261212T080000Z
+DTEND:20261212T083000Z
+SUMMARY:Air Jordan 11 Retro "Gamma" (378038-900)
+DESCRIPTION:Multi-Color/Beyaz/Siyah/Varsity Royal\n10999 TRY\nNike SNKRS: 
+ https://www.nike.com/tr/launch/t/air-jordan-11-retro-gamma-genc-cocuk-ayak
+ kabisi-UrSq3Ki9
+URL:https://www.nike.com/tr/launch/t/air-jordan-11-retro-gamma-genc-cocuk-
+ ayakkabisi-UrSq3Ki9
+END:VEVENT
+BEGIN:VEVENT
+UID:CT8012900-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261212T080000Z
+DTEND:20261212T083000Z
+SUMMARY:Air Jordan 11 Retro · Erkek Ayakkabısı (CT8012-900)
+DESCRIPTION:Multi-Color/Beyaz/Siyah/Varsity Royal\n12999 TRY\nNike SNKRS: 
+ https://www.nike.com/tr/launch/t/air-jordan-11-retro-erkek-ayakkabisi-RQH0
+ NjYP
+URL:https://www.nike.com/tr/launch/t/air-jordan-11-retro-erkek-ayakkabisi-
+ RQH0NjYP
+END:VEVENT
+BEGIN:VEVENT
+UID:378039900-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261212T080000Z
+DTEND:20261212T083000Z
+SUMMARY:Air Jordan 11 Retro · Küçük Çocuk Ayakkabısı (378039-900)
+DESCRIPTION:Multi-Color/Beyaz/Siyah/Varsity Royal\n6199 TRY\nNike SNKRS: h
+ ttps://www.nike.com/tr/launch/t/air-jordan-11-retro-kucuk-cocuk-ayakkabisi
+ -iQWlX7nj
+URL:https://www.nike.com/tr/launch/t/air-jordan-11-retro-kucuk-cocuk-ayakk
+ abisi-iQWlX7nj
+END:VEVENT
+BEGIN:VEVENT
+UID:378040900-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261212T080000Z
+DTEND:20261212T083000Z
+SUMMARY:Air Jordan 11 Retro · Bebek Ayakkabısı (378040-900)
+DESCRIPTION:Multi-Color/Beyaz/Siyah/Multi-Color\n4999 TRY\nNike SNKRS: htt
+ ps://www.nike.com/tr/launch/t/air-jordan-11-retro-bebek-ayakkabisi-zDUI9MA
+ M
+URL:https://www.nike.com/tr/launch/t/air-jordan-11-retro-bebek-ayakkabisi-
+ zDUI9MAM
+END:VEVENT
+BEGIN:VEVENT
+UID:IU4982600-tr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Social Status x Air Jordan 1 Low OG "Sashiko" (IU4982-600)
+DESCRIPTION:Varsity Red/Sail-Game Royal-Black\n155 USD
+END:VEVENT
+END:VCALENDAR

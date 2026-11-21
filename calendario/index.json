@@ -1,0 +1,143 @@
+{
+ "version": 1,
+ "actualizado": "2026-11-21T11:00:45.379Z",
+ "paises": [
+  {
+   "pais": "us",
+   "nombre": "United States",
+   "total": 260
+  },
+  {
+   "pais": "ca",
+   "nombre": "Canada",
+   "total": 250
+  },
+  {
+   "pais": "mx",
+   "nombre": "México",
+   "total": 19
+  },
+  {
+   "pais": "gb",
+   "nombre": "United Kingdom",
+   "total": 102
+  },
+  {
+   "pais": "es",
+   "nombre": "España",
+   "total": 102
+  },
+  {
+   "pais": "fr",
+   "nombre": "France",
+   "total": 102
+  },
+  {
+   "pais": "de",
+   "nombre": "Deutschland",
+   "total": 102
+  },
+  {
+   "pais": "it",
+   "nombre": "Italia",
+   "total": 102
+  },
+  {
+   "pais": "pt",
+   "nombre": "Portugal",
+   "total": 102
+  },
+  {
+   "pais": "nl",
+   "nombre": "Nederland",
+   "total": 102
+  },
+  {
+   "pais": "be",
+   "nombre": "Belgique",
+   "total": 102
+  },
+  {
+   "pais": "pl",
+   "nombre": "Polska",
+   "total": 102
+  },
+  {
+   "pais": "se",
+   "nombre": "Sverige",
+   "total": 102
+  },
+  {
+   "pais": "tr",
+   "nombre": "Türkiye",
+   "total": 14
+  },
+  {
+   "pais": "jp",
+   "nombre": "日本",
+   "total": 30
+  },
+  {
+   "pais": "kr",
+   "nombre": "대한민국",
+   "total": 25
+  },
+  {
+   "pais": "sg",
+   "nombre": "Singapore",
+   "total": 18
+  },
+  {
+   "pais": "au",
+   "nombre": "Australia",
+   "total": 6
+  },
+  {
+   "pais": "cn",
+   "nombre": "中国",
+   "total": 8
+  }
+ ],
+ "fuentes": {
+  "sneakerfiles": {
+   "ok": true,
+   "elementos": 207,
+   "segundos": 2
+  },
+  "sneakerbardetroit": {
+   "ok": true,
+   "elementos": 53,
+   "segundos": 4
+  },
+  "hypebeast": {
+   "ok": true,
+   "elementos": 9,
+   "segundos": 8
+  },
+  "sneakerjagers": {
+   "ok": true,
+   "elementos": 132,
+   "segundos": 8
+  },
+  "lesitedelasneaker": {
+   "ok": true,
+   "elementos": 82,
+   "segundos": 24
+  },
+  "sneakernews": {
+   "ok": true,
+   "elementos": 42,
+   "segundos": 31
+  },
+  "nike": {
+   "ok": true,
+   "elementos": 254,
+   "segundos": 32
+  },
+  "kicksfinder": {
+   "ok": true,
+   "elementos": 67,
+   "segundos": 49
+  }
+ }
+}

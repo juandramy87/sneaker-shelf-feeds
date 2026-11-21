@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sneaker Shelf//Lanzamientos//ES
+X-WR-CALNAME:Sneaker releases SG
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:IF4396001-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Air Jordan 3 Retro 'Not Nice List' (IF4396-001)
+DESCRIPTION:Black/Challenge Red/Off-Noir/Black\n299 SGD\nNike SNKRS: https
+ ://www.nike.com/sg/launch/t/air-jordan-3-retro-not-nice-list-mens-shoes-WU
+ aM06fp
+URL:https://www.nike.com/sg/launch/t/air-jordan-3-retro-not-nice-list-mens
+ -shoes-WUaM06fp
+END:VEVENT
+BEGIN:VEVENT
+UID:DM0966601-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Jordan 3 Retro 'Santa' · Younger Kids' Shoes (DM0966-601)
+DESCRIPTION:University Red/White/Gym Red/Multi-Colour\n125 SGD\nNike SNKRS
+ : https://www.nike.com/sg/launch/t/jordan-3-retro-santa-older-kids-shoes-w
+ 66D0b
+URL:https://www.nike.com/sg/launch/t/jordan-3-retro-santa-older-kids-shoes
+ -w66D0b
+END:VEVENT
+BEGIN:VEVENT
+UID:DM0967601-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Air Jordan 3 Retro 'Santa' (DM0967-601)
+DESCRIPTION:University Red/White/Gym Red/Multi-Colour\n225 SGD\nNike SNKRS
+ : https://www.nike.com/sg/launch/t/air-jordan-3-retro-santa-older-kids-sho
+ es-ggSDPD
+URL:https://www.nike.com/sg/launch/t/air-jordan-3-retro-santa-older-kids-s
+ hoes-ggSDPD
+END:VEVENT
+BEGIN:VEVENT
+UID:DM0968601-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Jordan 3 Retro 'Santa' · Baby & Toddler Shoes (DM0968-601)
+DESCRIPTION:University Red/White/Gym Red/Multi-Colour\n105 SGD\nNike SNKRS
+ : https://www.nike.com/sg/launch/t/jordan-3-retro-santa-baby-toddler-shoes
+ -61GbNx
+URL:https://www.nike.com/sg/launch/t/jordan-3-retro-santa-baby-toddler-sho
+ es-61GbNx
+END:VEVENT
+BEGIN:VEVENT
+UID:IZ1699600-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Jordan 3 Retro 'Space Jam' · Baby & Toddler Shoes (IZ1699-600)
+DESCRIPTION:Light Soft Pink/White/Sunset Pulse\n99 SGD\nNike SNKRS: https:
+ //www.nike.com/sg/launch/t/jordan-3-retro-space-jam-baby-toddler-shoes-HEQ
+ p7qF2
+URL:https://www.nike.com/sg/launch/t/jordan-3-retro-space-jam-baby-toddler
+ -shoes-HEQp7qF2
+END:VEVENT
+BEGIN:VEVENT
+UID:IZ1698600-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Jordan 3 Retro 'Space Jam' · Younger Kids' Shoes (IZ1698-600)
+DESCRIPTION:Light Soft Pink/White/Sunset Pulse\n125 SGD\nNike SNKRS: https
+ ://www.nike.com/sg/launch/t/jordan-3-retro-space-jam-younger-kids-shoes-p5
+ 0iEu25
+URL:https://www.nike.com/sg/launch/t/jordan-3-retro-space-jam-younger-kids
+ -shoes-p50iEu25
+END:VEVENT
+BEGIN:VEVENT
+UID:IZ1694600-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Air Jordan 3 Retro "Space Jam" (IZ1694-600)
+DESCRIPTION:Light Soft Pink/White/Sunset Pulse\n225 SGD\nNike SNKRS: https
+ ://www.nike.com/sg/launch/t/air-jordan-3-retro-space-jam-older-kids-shoes-
+ Vz3JLuHg
+URL:https://www.nike.com/sg/launch/t/air-jordan-3-retro-space-jam-older-ki
+ ds-shoes-Vz3JLuHg
+END:VEVENT
+BEGIN:VEVENT
+UID:JJ7604001-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Travis Scott x Rockstar x Nike Air Force 1 Low ’07 “GTA 6” (JJ7604
+ -001)
+DESCRIPTION:Black/Fire Pink\, White/Fire Pink\n130 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:JJ7602100-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Travis Scott x Rockstar x Nike Air Force 1 Low ’07 “GTA 6” (JJ7602
+ -100)
+DESCRIPTION:Black/Fire Pink\, White/Fire Pink\n130 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:S1019571002-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T000000Z
+DTEND:20261127T003000Z
+SUMMARY:atmos x Saucony Progrid Omni 9 (S101957-1002)
+DESCRIPTION:N/A\natmos Tokyo: https://launch.atmos-tokyo.com/category/upco
+ ming/
+URL:https://launch.atmos-tokyo.com/category/upcoming/
+END:VEVENT
+BEGIN:VEVENT
+UID:IX8180001-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T020000Z
+DTEND:20261127T023000Z
+SUMMARY:Air Jordan 4 Retro OG 'Bred' · Men's Shoes (IX8180-001)
+DESCRIPTION:Black/Cement Grey/Summit White/Fire Red\n319 SGD\nNike SNKRS: 
+ https://www.nike.com/sg/launch/t/air-jordan-4-retro-og-bred-mens-shoes-KLI
+ ObePR
+URL:https://www.nike.com/sg/launch/t/air-jordan-4-retro-og-bred-mens-shoes
+ -KLIObePR
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4879001-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T020000Z
+DTEND:20261127T023000Z
+SUMMARY:Jordan 4 Retro OG 'Bred' · Younger Kids' Shoes (IX4879-001)
+DESCRIPTION:Black/Cement Grey/Summit White/Fire Red\n125 SGD\nNike SNKRS: 
+ https://www.nike.com/sg/launch/t/jordan-4-retro-og-bred-younger-kids-shoes
+ -R0fubB3E
+URL:https://www.nike.com/sg/launch/t/jordan-4-retro-og-bred-younger-kids-s
+ hoes-R0fubB3E
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4880001-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T020000Z
+DTEND:20261127T023000Z
+SUMMARY:Jordan 4 Retro OG 'Bred' · Baby & Toddler Shoes (IX4880-001)
+DESCRIPTION:Black/Cement Grey/Summit White/Fire Red\n99 SGD\nNike SNKRS: h
+ ttps://www.nike.com/sg/launch/t/jordan-4-retro-og-bred-baby-toddler-shoes-
+ B6VuOuz0
+URL:https://www.nike.com/sg/launch/t/jordan-4-retro-og-bred-baby-toddler-s
+ hoes-B6VuOuz0
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4857001-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T020000Z
+DTEND:20261127T023000Z
+SUMMARY:Air Jordan 4 Retro OG 'Bred' · Older Kids' Shoes (IX4857-001)
+DESCRIPTION:Black/Cement Grey/Summit White/Multi-Colour\n225 SGD\nNike SNK
+ RS: https://www.nike.com/sg/launch/t/air-jordan-4-retro-og-bred-older-kids
+ -shoes-3MFQ08WE
+URL:https://www.nike.com/sg/launch/t/air-jordan-4-retro-og-bred-older-kids
+ -shoes-3MFQ08WE
+END:VEVENT
+BEGIN:VEVENT
+UID:U18901CY-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:UP THERE x New Balance 1890 “Horizon” (U18901CY)
+DESCRIPTION:TBC\n280 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:1185590GHG-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:WTAPS x HOKA Speedgoat TS (1185590-GHG)
+DESCRIPTION:Galactic Grey/High Rise\, Black/Volcanic Ash\n175 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:1185590BKVL-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:WTAPS x HOKA Speedgoat TS (1185590-BKVL)
+DESCRIPTION:Galactic Grey/High Rise\, Black/Volcanic Ash\n175 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:IU4982600-sg@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Social Status x Air Jordan 1 Low OG "Sashiko" (IU4982-600)
+DESCRIPTION:Varsity Red/Sail-Game Royal-Black\n155 USD
+END:VEVENT
+END:VCALENDAR

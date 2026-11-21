@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sneaker Shelf//Lanzamientos//ES
+X-WR-CALNAME:Sneaker releases KR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:JJ7604001-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261121T010000Z
+DTEND:20261121T013000Z
+SUMMARY:나이키 캑터스 잭 X GTA VI (JJ7604-001)
+DESCRIPTION:블랙/블랙/파이어 핑크/블랙\n169000 KRW\nNike SNKRS: https://www.nike.com/
+ kr/launch/t/나이키-캑터스-잭-x-gta-vi-나이키-캑터스-잭-af1-gta-vi-XxYHnRBO
+URL:https://www.nike.com/kr/launch/t/나이키-캑터스-잭-x-gta-vi-나이키-캑터스-잭-af1-gta-
+ vi-XxYHnRBO
+END:VEVENT
+BEGIN:VEVENT
+UID:JJ7602100-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261121T010000Z
+DTEND:20261121T013000Z
+SUMMARY:나이키 캑터스 잭 X GTA VI (JJ7602-100)
+DESCRIPTION:화이트/화이트/파이어 핑크/화이트\n169000 KRW\nNike SNKRS: https://www.nike.c
+ om/kr/launch/t/나이키-캑터스-잭-x-gta-vi-나이키-캑터스-잭-af1-gta-vi-OSlSEUWm
+URL:https://www.nike.com/kr/launch/t/나이키-캑터스-잭-x-gta-vi-나이키-캑터스-잭-af1-gta-
+ vi-OSlSEUWm
+END:VEVENT
+BEGIN:VEVENT
+UID:IF4396001-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:에어 조던 3 레트로 '낫 나이스 리스트' (IF4396-001)
+DESCRIPTION:블랙/챌린지 레드/오프 누아르/블랙\n259000 KRW\nNike SNKRS: https://www.nike.
+ com/kr/launch/t/에어-조던-3-레트로-낫-나이스-리스트-남성-신발-gvXnHcgg
+URL:https://www.nike.com/kr/launch/t/에어-조던-3-레트로-낫-나이스-리스트-남성-신발-gvXnHcgg
+END:VEVENT
+BEGIN:VEVENT
+UID:DM0968601-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:조던 3 레트로 '산타' · 베이비 신발 (DM0968-601)
+DESCRIPTION:유니버시티 레드/화이트/짐 레드/멀티컬러\n79000 KRW\nNike SNKRS: https://www.nik
+ e.com/kr/launch/t/조던-3-레트로-산타-베이비-신발-wZpIroJN
+URL:https://www.nike.com/kr/launch/t/조던-3-레트로-산타-베이비-신발-wZpIroJN
+END:VEVENT
+BEGIN:VEVENT
+UID:DM0967601-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:에어 조던 3 레트로 '산타' (DM0967-601)
+DESCRIPTION:유니버시티 레드/화이트/짐 레드/멀티컬러\n189000 KRW\nNike SNKRS: https://www.ni
+ ke.com/kr/launch/t/에어-조던-3-레트로-산타-주니어-신발-JEV2VEG2
+URL:https://www.nike.com/kr/launch/t/에어-조던-3-레트로-산타-주니어-신발-JEV2VEG2
+END:VEVENT
+BEGIN:VEVENT
+UID:DM0966601-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:조던 3 레트로 '산타' · 리틀키즈 신발 (DM0966-601)
+DESCRIPTION:유니버시티 레드/화이트/짐 레드/멀티컬러\n99000 KRW\nNike SNKRS: https://www.nik
+ e.com/kr/launch/t/조던-3-레트로-산타-리틀키즈-신발-sLa5QJ84
+URL:https://www.nike.com/kr/launch/t/조던-3-레트로-산타-리틀키즈-신발-sLa5QJ84
+END:VEVENT
+BEGIN:VEVENT
+UID:IZ1694600-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:에어 조던 3 레트로 '스페이스 잼' (IZ1694-600)
+DESCRIPTION:라이트 소프트 핑크/화이트/썬셋 펄스\n199000 KRW\nNike SNKRS: https://www.nike
+ .com/kr/launch/t/에어-조던-3-레트로-스페이스-잼-주니어-신발-FTm3Kqrw
+URL:https://www.nike.com/kr/launch/t/에어-조던-3-레트로-스페이스-잼-주니어-신발-FTm3Kqrw
+END:VEVENT
+BEGIN:VEVENT
+UID:IZ1699600-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:조던 3 레트로 '스페이스 잼' · 베이비 신발 (IZ1699-600)
+DESCRIPTION:라이트 소프트 핑크/화이트/썬셋 펄스\n89000 KRW\nNike SNKRS: https://www.nike.
+ com/kr/launch/t/조던-3-레트로-스페이스-잼-베이비-신발-EQQOOvMb
+URL:https://www.nike.com/kr/launch/t/조던-3-레트로-스페이스-잼-베이비-신발-EQQOOvMb
+END:VEVENT
+BEGIN:VEVENT
+UID:IZ1698600-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:조던 3 레트로 '스페이스 잼' · 리틀키즈 신발 (IZ1698-600)
+DESCRIPTION:라이트 소프트 핑크/화이트/썬셋 펄스\n109000 KRW\nNike SNKRS: https://www.nike
+ .com/kr/launch/t/조던-3-레트로-스페이스-잼-리틀키즈-신발-czR9vnwZ
+URL:https://www.nike.com/kr/launch/t/조던-3-레트로-스페이스-잼-리틀키즈-신발-czR9vnwZ
+END:VEVENT
+BEGIN:VEVENT
+UID:IQ9951001-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261124T010000Z
+DTEND:20261124T013000Z
+SUMMARY:나이키 샥스 R419 x 코르테이즈 (IQ9951-001)
+DESCRIPTION:메탈릭 실버/유니버시티 레드/블랙/메탈릭 실버\n249000 KRW\nNike SNKRS: https://www
+ .nike.com/kr/launch/t/나이키-샥스-r419-x-코르테이즈-남성-신발-fVJW1Ed0
+URL:https://www.nike.com/kr/launch/t/나이키-샥스-r419-x-코르테이즈-남성-신발-fVJW1Ed0
+END:VEVENT
+BEGIN:VEVENT
+UID:IV4501001-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261125T010000Z
+DTEND:20261125T013000Z
+SUMMARY:나이키 에어 포스 1 '01 (IV4501-001)
+DESCRIPTION:블랙/블랙/블랙\n169000 KRW\nNike SNKRS: https://www.nike.com/kr/laun
+ ch/t/나이키-에어-포스-1-01-남성-신발-8GsD4QyI
+URL:https://www.nike.com/kr/launch/t/나이키-에어-포스-1-01-남성-신발-8GsD4QyI
+END:VEVENT
+BEGIN:VEVENT
+UID:IU3418600-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261126T010000Z
+DTEND:20261126T013000Z
+SUMMARY:코비 주니어 머큐리얼 베이퍼 17 프로 '맘바큐리얼' (IU3418-600)
+DESCRIPTION:하이퍼 핑크/레드 플럼/일렉트릭 그린\n229000 KRW\nNike SNKRS: https://www.nike
+ .com/kr/launch/t/코비-주니어-머큐리얼-베이퍼-17-프로-맘바큐리얼-주니어-천연-잔디-로우-탑-클리트-축구화-uSVlGj
+ z1
+URL:https://www.nike.com/kr/launch/t/코비-주니어-머큐리얼-베이퍼-17-프로-맘바큐리얼-주니어-천연-잔디
+ -로우-탑-클리트-축구화-uSVlGjz1
+END:VEVENT
+BEGIN:VEVENT
+UID:S1019571002-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T000000Z
+DTEND:20261127T003000Z
+SUMMARY:atmos x Saucony Progrid Omni 9 (S101957-1002)
+DESCRIPTION:N/A\natmos Tokyo: https://launch.atmos-tokyo.com/category/upco
+ ming/
+URL:https://launch.atmos-tokyo.com/category/upcoming/
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4879001-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T010000Z
+DTEND:20261127T013000Z
+SUMMARY:조던 4 레트로 OG '브레드' · 리틀키즈 신발 (IX4879-001)
+DESCRIPTION:블랙/시멘트 그레이/서밋 화이트/파이어 레드\n109000 KRW\nNike SNKRS: https://www.
+ nike.com/kr/launch/t/조던-4-레트로-og-브레드-리틀키즈-신발-QmcQfyIp
+URL:https://www.nike.com/kr/launch/t/조던-4-레트로-og-브레드-리틀키즈-신발-QmcQfyIp
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4880001-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T010000Z
+DTEND:20261127T013000Z
+SUMMARY:조던 4 레트로 OG '브레드' · 베이비 신발 (IX4880-001)
+DESCRIPTION:블랙/시멘트 그레이/서밋 화이트/파이어 레드\n89000 KRW\nNike SNKRS: https://www.n
+ ike.com/kr/launch/t/조던-4-레트로-og-브레드-베이비-신발-M5N35WwI
+URL:https://www.nike.com/kr/launch/t/조던-4-레트로-og-브레드-베이비-신발-M5N35WwI
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4857001-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T010000Z
+DTEND:20261127T013000Z
+SUMMARY:에어 조던 4 레트로 OG '브레드' · 주니어 신발 (IX4857-001)
+DESCRIPTION:블랙/시멘트 그레이/서밋 화이트/멀티컬러\n199000 KRW\nNike SNKRS: https://www.ni
+ ke.com/kr/launch/t/에어-조던-4-레트로-og-브레드-주니어-신발-mtua88CZ
+URL:https://www.nike.com/kr/launch/t/에어-조던-4-레트로-og-브레드-주니어-신발-mtua88CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:IX8180001-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261127T010000Z
+DTEND:20261127T013000Z
+SUMMARY:에어 조던 4 레트로 OG '브레드' · 남성 신발 (IX8180-001)
+DESCRIPTION:블랙/시멘트 그레이/서밋 화이트/파이어 레드\n289000 KRW\nNike SNKRS: https://www.
+ nike.com/kr/launch/t/에어-조던-4-레트로-og-브레드-남성-신발-ywxpVwDn
+URL:https://www.nike.com/kr/launch/t/에어-조던-4-레트로-og-브레드-남성-신발-ywxpVwDn
+END:VEVENT
+BEGIN:VEVENT
+UID:U18901CY-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:UP THERE x New Balance 1890 “Horizon” (U18901CY)
+DESCRIPTION:TBC\n280 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:1185590GHG-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:WTAPS x HOKA Speedgoat TS (1185590-GHG)
+DESCRIPTION:Galactic Grey/High Rise\, Black/Volcanic Ash\n175 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:1185590BKVL-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:WTAPS x HOKA Speedgoat TS (1185590-BKVL)
+DESCRIPTION:Galactic Grey/High Rise\, Black/Volcanic Ash\n175 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:378038900-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261212T010000Z
+DTEND:20261212T013000Z
+SUMMARY:에어 조던 11 감마 (378038-900)
+DESCRIPTION:멀티컬러/화이트/블랙/바시티 로얄\n219000 KRW\nNike SNKRS: https://www.nike.c
+ om/kr/launch/t/에어-조던-11-감마-주니어-신발-3vjymcxH
+URL:https://www.nike.com/kr/launch/t/에어-조던-11-감마-주니어-신발-3vjymcxH
+END:VEVENT
+BEGIN:VEVENT
+UID:CT8012900-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261212T010000Z
+DTEND:20261212T013000Z
+SUMMARY:에어 조던 11 레트로 · 남성 신발 (CT8012-900)
+DESCRIPTION:멀티컬러/화이트/블랙/바시티 로얄\n279000 KRW\nNike SNKRS: https://www.nike.c
+ om/kr/launch/t/에어-조던-11-레트로-남성-신발-Tuzmrsd5
+URL:https://www.nike.com/kr/launch/t/에어-조던-11-레트로-남성-신발-Tuzmrsd5
+END:VEVENT
+BEGIN:VEVENT
+UID:378039900-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261212T010000Z
+DTEND:20261212T013000Z
+SUMMARY:에어 조던 11 레트로 · 리틀키즈 신발 (378039-900)
+DESCRIPTION:멀티컬러/화이트/블랙/바시티 로얄\n119000 KRW\nNike SNKRS: https://www.nike.c
+ om/kr/launch/t/에어-조던-11-레트로-리틀키즈-신발-CnWfrUzV
+URL:https://www.nike.com/kr/launch/t/에어-조던-11-레트로-리틀키즈-신발-CnWfrUzV
+END:VEVENT
+BEGIN:VEVENT
+UID:378040900-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART:20261212T010000Z
+DTEND:20261212T013000Z
+SUMMARY:에어 조던 11 레트로 · 베이비 신발 (378040-900)
+DESCRIPTION:멀티컬러/화이트/블랙/멀티컬러\n99000 KRW\nNike SNKRS: https://www.nike.com/
+ kr/launch/t/에어-조던-11-레트로-베이비-신발-Ix1uK7Ja
+URL:https://www.nike.com/kr/launch/t/에어-조던-11-레트로-베이비-신발-Ix1uK7Ja
+END:VEVENT
+BEGIN:VEVENT
+UID:IU4982600-kr@sneakershelf
+DTSTAMP:20261121T110045Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Social Status x Air Jordan 1 Low OG "Sashiko" (IU4982-600)
+DESCRIPTION:Varsity Red/Sail-Game Royal-Black\n155 USD
+END:VEVENT
+END:VCALENDAR
