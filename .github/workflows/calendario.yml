@@ -1,7 +1,8 @@
 name: Calendario
 on:
   schedule:
-    - cron: '17 */3 * * *'
+    # Cada hora, unos minutos después de que publique el vigilante (lo hace hacia el minuto 20–45).
+    - cron: '50 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -23,7 +24,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node src/calendario.mjs publicado
+      # El calendario lo hace el vigilante (Cloudflare); si falla o no cuadra, el de siempre como respaldo.
+      - run: node src/desde-vigilante.mjs publicado || node src/calendario.mjs publicado
       - run: ./publicar.sh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
