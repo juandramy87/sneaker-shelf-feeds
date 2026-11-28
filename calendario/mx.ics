@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sneaker Shelf//Lanzamientos//ES
+X-WR-CALNAME:Sneaker releases MX
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:IX8180001-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Air Jordan 4 Retro OG "Bred" · Tenis para hombre (IX8180-001)
+DESCRIPTION:4799 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-jor
+ dan-4-bred-2
+URL:https://www.nike.com/mx/launch/t/air-jordan-4-bred-2
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4857001-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Air Jordan 4 Retro OG "Bred" · Tenis para niños grandes (IX4857-00
+ 1)
+DESCRIPTION:3499 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-jor
+ dan-4-bred-2
+URL:https://www.nike.com/mx/launch/t/air-jordan-4-bred-2
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4879001-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Jordan 4 Retro OG "Bred" · Tenis para niños de preescolar (IX4879-
+ 001)
+DESCRIPTION:1899 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-jor
+ dan-4-bred-2
+URL:https://www.nike.com/mx/launch/t/air-jordan-4-bred-2
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4880001-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Jordan 4 Retro OG "Bred" · Tenis para bebé e infantil (IX4880-001)
+DESCRIPTION:1599 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-jor
+ dan-4-bred-2
+URL:https://www.nike.com/mx/launch/t/air-jordan-4-bred-2
+END:VEVENT
+BEGIN:VEVENT
+UID:1203B382020-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:SOMEWHERE x ASICS GEL-Stratus MC “Chocolate City” (1203B382-020)
+DESCRIPTION:Quiet Grey/Neon Blue\n110 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:IQ8161001-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART:20261201T170000Z
+DTEND:20261201T173000Z
+SUMMARY:Nike Cryoshot Mercurial Vapor 1 OG (IQ8161-001)
+DESCRIPTION:4099 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/cryosho
+ t-mercurial-chrome-02-og-chrome-and-hot-lime
+URL:https://www.nike.com/mx/launch/t/cryoshot-mercurial-chrome-02-og-chrom
+ e-and-hot-lime
+END:VEVENT
+BEGIN:VEVENT
+UID:IO9841200-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART;VALUE=DATE:20261201
+SUMMARY:Chevy x Nike Book 2 "Light Chocolate" (IO9841-200)
+DESCRIPTION:Light Chocolate/Sail-Metallic Silver-Black\n155 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:IQ5365001-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART:20261203T170000Z
+DTEND:20261203T173000Z
+SUMMARY:Nike Air Bakin High SP (IQ5365-001)
+DESCRIPTION:3799 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-bak
+ in-high-sp-black
+URL:https://www.nike.com/mx/launch/t/air-bakin-high-sp-black
+END:VEVENT
+BEGIN:VEVENT
+UID:IR1944102-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART:20261204T170000Z
+DTEND:20261204T173000Z
+SUMMARY:Nike Air Max 95 Big Bubble (IR1944-102)
+DESCRIPTION:4099 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-max
+ -95-big-bubble-sport-green-and-safety-orange-2
+URL:https://www.nike.com/mx/launch/t/air-max-95-big-bubble-sport-green-and
+ -safety-orange-2
+END:VEVENT
+BEGIN:VEVENT
+UID:21578590H-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Twilight x Crocs Classic Clog "Edward and Bella" (215785-90H)
+DESCRIPTION:Multi-Color\n90 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:HJ6779002-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART:20261205T170000Z
+DTEND:20261205T173000Z
+SUMMARY:Air Jordan 10 Retro "Sacramento" (HJ6779-002)
+DESCRIPTION:4299 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-jor
+ dan-10-black-and-dark-concord
+URL:https://www.nike.com/mx/launch/t/air-jordan-10-black-and-dark-concord
+END:VEVENT
+BEGIN:VEVENT
+UID:IU0734001-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART:20261205T170000Z
+DTEND:20261205T173000Z
+SUMMARY:Air Jordan 5 Retro x Solefly (IU0734-001)
+DESCRIPTION:4899 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-jor
+ dan-5-retro-og-solefly-anthracite-and-aurora-green
+URL:https://www.nike.com/mx/launch/t/air-jordan-5-retro-og-solefly-anthrac
+ ite-and-aurora-green
+END:VEVENT
+BEGIN:VEVENT
+UID:CT8012900-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART:20261212T170000Z
+DTEND:20261212T173000Z
+SUMMARY:Air Jordan 11 Retro (CT8012-900)
+DESCRIPTION:5099 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-jor
+ dan-11-retro-og-space-jam-black-and-varsity-royal
+URL:https://www.nike.com/mx/launch/t/air-jordan-11-retro-og-space-jam-blac
+ k-and-varsity-royal
+END:VEVENT
+BEGIN:VEVENT
+UID:378038900-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART:20261212T170000Z
+DTEND:20261212T173000Z
+SUMMARY:Air Jordan 11 Retro "Space Jam" (378038-900)
+DESCRIPTION:3999 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-jor
+ dan-11-retro-og-space-jam-black-and-varsity-royal
+URL:https://www.nike.com/mx/launch/t/air-jordan-11-retro-og-space-jam-blac
+ k-and-varsity-royal
+END:VEVENT
+BEGIN:VEVENT
+UID:378039900-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART:20261212T170000Z
+DTEND:20261212T173000Z
+SUMMARY:Jordan 11 Retro "Space Jam" · Tenis para niños de preescolar (3780
+ 39-900)
+DESCRIPTION:2199 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-jor
+ dan-11-retro-og-space-jam-black-and-varsity-royal
+URL:https://www.nike.com/mx/launch/t/air-jordan-11-retro-og-space-jam-blac
+ k-and-varsity-royal
+END:VEVENT
+BEGIN:VEVENT
+UID:378040900-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART:20261212T170000Z
+DTEND:20261212T173000Z
+SUMMARY:Jordan 11 Retro "Space Jam" · Tenis para bebé e infantil (378040-9
+ 00)
+DESCRIPTION:1799 MXN\nNike SNKRS: https://www.nike.com/mx/launch/t/air-jor
+ dan-11-retro-og-space-jam-black-and-varsity-royal
+URL:https://www.nike.com/mx/launch/t/air-jordan-11-retro-og-space-jam-blac
+ k-and-varsity-royal
+END:VEVENT
+BEGIN:VEVENT
+UID:IU5238500-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Cactus Plant Flea Market x Nike Flea 1 “Cave Purple” (IU5238-500)
+DESCRIPTION:Cave Purple/Dark Raisin-Purple Dynasty\n180 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:IU5238700-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Cactus Plant Flea Market x Nike Flea 1 “Barley” (IU5238-700)
+DESCRIPTION:Barley/Desert Moss-Brown Basalt-Sail\n180 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:VN0010WY3TD-mx@sneakershelf
+DTSTAMP:20261128T044600Z
+DTSTART;VALUE=DATE:20270520
+SUMMARY:Lil Uzi Vert x Vans Authentic 44 “Pink Cosmos” (VN0010WY3TD)
+DESCRIPTION:Pink/Multi-Color
+END:VEVENT
+END:VCALENDAR

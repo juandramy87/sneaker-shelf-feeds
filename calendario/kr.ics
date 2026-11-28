@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sneaker Shelf//Lanzamientos//ES
+X-WR-CALNAME:Sneaker releases KR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:S1019571002-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART:20261127T000000Z
+DTEND:20261127T003000Z
+SUMMARY:atmos x Saucony Progrid Omni 9 (S101957-1002)
+DESCRIPTION:N/A\natmos Tokyo: https://launch.atmos-tokyo.com/category/upco
+ ming/
+URL:https://launch.atmos-tokyo.com/category/upcoming/
+END:VEVENT
+BEGIN:VEVENT
+UID:IX8180001-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:에어 조던 4 레트로 OG '브레드' · 남성 신발 (IX8180-001)
+DESCRIPTION:289000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-j
+ ordan-4-bred-kr
+URL:https://www.nike.com/kr/launch/t/air-jordan-4-bred-kr
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4857001-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:에어 조던 4 레트로 OG '브레드' · 주니어 신발 (IX4857-001)
+DESCRIPTION:199000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-j
+ ordan-4-bred-kr
+URL:https://www.nike.com/kr/launch/t/air-jordan-4-bred-kr
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4879001-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:조던 4 레트로 OG '브레드' · 리틀키즈 신발 (IX4879-001)
+DESCRIPTION:109000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-j
+ ordan-4-bred-kr
+URL:https://www.nike.com/kr/launch/t/air-jordan-4-bred-kr
+END:VEVENT
+BEGIN:VEVENT
+UID:IX4880001-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:조던 4 레트로 OG '브레드' · 베이비 신발 (IX4880-001)
+DESCRIPTION:89000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-jo
+ rdan-4-bred-kr
+URL:https://www.nike.com/kr/launch/t/air-jordan-4-bred-kr
+END:VEVENT
+BEGIN:VEVENT
+UID:IO6262600-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:코비 9 프로트로 (IO6262-600)
+DESCRIPTION:239000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/kobe-
+ 9-em-low-protro-laser-crimson-and-obsidian-kr
+URL:https://www.nike.com/kr/launch/t/kobe-9-em-low-protro-laser-crimson-an
+ d-obsidian-kr
+END:VEVENT
+BEGIN:VEVENT
+UID:IV5466600-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:코비 IX 로우 (IV5466-600)
+DESCRIPTION:149000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/kobe-
+ 9-em-low-protro-laser-crimson-and-obsidian-kr
+URL:https://www.nike.com/kr/launch/t/kobe-9-em-low-protro-laser-crimson-an
+ d-obsidian-kr
+END:VEVENT
+BEGIN:VEVENT
+UID:1203B382020-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:SOMEWHERE x ASICS GEL-Stratus MC “Chocolate City” (1203B382-020)
+DESCRIPTION:Quiet Grey/Neon Blue\n110 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:IO9841200-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261201
+SUMMARY:Chevy x Nike Book 2 "Light Chocolate" (IO9841-200)
+DESCRIPTION:Light Chocolate/Sail-Metallic Silver-Black\n155 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:IQ5365001-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART:20261203T010000Z
+DTEND:20261203T013000Z
+SUMMARY:나이키 에어 베이킨 하이 SP (IQ5365-001)
+DESCRIPTION:219000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-b
+ akin-high-sp-black
+URL:https://www.nike.com/kr/launch/t/air-bakin-high-sp-black
+END:VEVENT
+BEGIN:VEVENT
+UID:IQ7317001-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART:20261203T010000Z
+DTEND:20261203T013000Z
+SUMMARY:나이키 오볼로 (IQ7317-001)
+DESCRIPTION:229000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/ovolo
+ -metallic-silver-and-black
+URL:https://www.nike.com/kr/launch/t/ovolo-metallic-silver-and-black
+END:VEVENT
+BEGIN:VEVENT
+UID:IR1944102-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART:20261204T010000Z
+DTEND:20261204T013000Z
+SUMMARY:나이키 에어맥스 95 빅 버블 (IR1944-102)
+DESCRIPTION:239000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-m
+ ax-95-big-bubble-sport-green-and-safety-orange-2
+URL:https://www.nike.com/kr/launch/t/air-max-95-big-bubble-sport-green-and
+ -safety-orange-2
+END:VEVENT
+BEGIN:VEVENT
+UID:21578590H-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Twilight x Crocs Classic Clog "Edward and Bella" (215785-90H)
+DESCRIPTION:Multi-Color\n90 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:HJ6779002-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART:20261205T010000Z
+DTEND:20261205T013000Z
+SUMMARY:에어 조던 10 레트로 '새크라멘토' (HJ6779-002)
+DESCRIPTION:259000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-j
+ ordan-10-black-and-dark-concord
+URL:https://www.nike.com/kr/launch/t/air-jordan-10-black-and-dark-concord
+END:VEVENT
+BEGIN:VEVENT
+UID:IU7852300-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART:20261208T010000Z
+DTEND:20261208T013000Z
+SUMMARY:나이키 SB 폴 로드리게스 에어 줌 로우 (IU7852-300)
+DESCRIPTION:159000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/nike-
+ sb-paul-rodriguez-zoom-air-low-paisaboys-imperial-blue-and-varsity-red
+URL:https://www.nike.com/kr/launch/t/nike-sb-paul-rodriguez-zoom-air-low-p
+ aisaboys-imperial-blue-and-varsity-red
+END:VEVENT
+BEGIN:VEVENT
+UID:CT8012900-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART:20261212T010000Z
+DTEND:20261212T013000Z
+SUMMARY:에어 조던 11 레트로 (CT8012-900)
+DESCRIPTION:279000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-j
+ ordan-11-retro-og-space-jam-black-and-varsity-royal-kr
+URL:https://www.nike.com/kr/launch/t/air-jordan-11-retro-og-space-jam-blac
+ k-and-varsity-royal-kr
+END:VEVENT
+BEGIN:VEVENT
+UID:378038900-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART:20261212T010000Z
+DTEND:20261212T013000Z
+SUMMARY:에어 조던 11 레트로 '스페이스 잼' (378038-900)
+DESCRIPTION:219000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-j
+ ordan-11-retro-og-space-jam-black-and-varsity-royal-kr
+URL:https://www.nike.com/kr/launch/t/air-jordan-11-retro-og-space-jam-blac
+ k-and-varsity-royal-kr
+END:VEVENT
+BEGIN:VEVENT
+UID:378039900-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART:20261212T010000Z
+DTEND:20261212T013000Z
+SUMMARY:조던 11 레트로 '스페이스 잼' · 리틀키즈 신발 (378039-900)
+DESCRIPTION:119000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-j
+ ordan-11-retro-og-space-jam-black-and-varsity-royal-kr
+URL:https://www.nike.com/kr/launch/t/air-jordan-11-retro-og-space-jam-blac
+ k-and-varsity-royal-kr
+END:VEVENT
+BEGIN:VEVENT
+UID:378040900-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART:20261212T010000Z
+DTEND:20261212T013000Z
+SUMMARY:조던 11 레트로 '스페이스 잼' · 베이비 신발 (378040-900)
+DESCRIPTION:99000 KRW\nNike SNKRS: https://www.nike.com/kr/launch/t/air-jo
+ rdan-11-retro-og-space-jam-black-and-varsity-royal-kr
+URL:https://www.nike.com/kr/launch/t/air-jordan-11-retro-og-space-jam-blac
+ k-and-varsity-royal-kr
+END:VEVENT
+BEGIN:VEVENT
+UID:IU5238500-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Cactus Plant Flea Market x Nike Flea 1 “Cave Purple” (IU5238-500)
+DESCRIPTION:Cave Purple/Dark Raisin-Purple Dynasty\n180 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:IU5238700-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Cactus Plant Flea Market x Nike Flea 1 “Barley” (IU5238-700)
+DESCRIPTION:Barley/Desert Moss-Brown Basalt-Sail\n180 USD
+END:VEVENT
+BEGIN:VEVENT
+UID:VN0010WY3TD-kr@sneakershelf
+DTSTAMP:20261128T044622Z
+DTSTART;VALUE=DATE:20270520
+SUMMARY:Lil Uzi Vert x Vans Authentic 44 “Pink Cosmos” (VN0010WY3TD)
+DESCRIPTION:Pink/Multi-Color
+END:VEVENT
+END:VCALENDAR

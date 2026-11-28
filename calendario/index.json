@@ -1,0 +1,815 @@
+{
+ "version": 1,
+ "actualizado": "2026-11-28T04:46:29.026Z",
+ "paises": [
+  {
+   "pais": "us",
+   "nombre": "United States",
+   "total": 256
+  },
+  {
+   "pais": "ca",
+   "nombre": "Canada",
+   "total": 252
+  },
+  {
+   "pais": "mx",
+   "nombre": "México",
+   "total": 19
+  },
+  {
+   "pais": "gb",
+   "nombre": "United Kingdom",
+   "total": 88
+  },
+  {
+   "pais": "es",
+   "nombre": "España",
+   "total": 86
+  },
+  {
+   "pais": "fr",
+   "nombre": "France",
+   "total": 86
+  },
+  {
+   "pais": "de",
+   "nombre": "Deutschland",
+   "total": 86
+  },
+  {
+   "pais": "it",
+   "nombre": "Italia",
+   "total": 86
+  },
+  {
+   "pais": "pt",
+   "nombre": "Portugal",
+   "total": 86
+  },
+  {
+   "pais": "nl",
+   "nombre": "Nederland",
+   "total": 86
+  },
+  {
+   "pais": "be",
+   "nombre": "Belgique",
+   "total": 86
+  },
+  {
+   "pais": "pl",
+   "nombre": "Polska",
+   "total": 86
+  },
+  {
+   "pais": "se",
+   "nombre": "Sverige",
+   "total": 86
+  },
+  {
+   "pais": "tr",
+   "nombre": "Türkiye",
+   "total": 16
+  },
+  {
+   "pais": "jp",
+   "nombre": "日本",
+   "total": 26
+  },
+  {
+   "pais": "kr",
+   "nombre": "대한민국",
+   "total": 22
+  },
+  {
+   "pais": "sg",
+   "nombre": "Singapore",
+   "total": 22
+  },
+  {
+   "pais": "au",
+   "nombre": "Australia",
+   "total": 17
+  },
+  {
+   "pais": "cn",
+   "nombre": "中国",
+   "total": 9
+  }
+ ],
+ "fuentes": {
+  "fotos": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T02:24:55.161Z"
+  },
+  "hypebeast": {
+   "ok": true,
+   "elementos": 5,
+   "ultimo_ok": "2026-11-28T02:24:53.593Z"
+  },
+  "kicksfinder": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T02:29:00.927Z"
+  },
+  "kicksfinder-fotos": {
+   "ok": true,
+   "elementos": 1,
+   "ultimo_ok": "2026-11-27T20:25:11.819Z"
+  },
+  "lesitedelasneaker": {
+   "ok": false,
+   "elementos": 14,
+   "ultimo_ok": "2026-11-28T02:25:03.567Z",
+   "error": "lsdls 2: boolean false is not iterable (cannot read property Symbol(Symbol.iterator))"
+  },
+  "limpiar": {
+   "ok": true,
+   "elementos": 285,
+   "ultimo_ok": "2026-11-27T23:24:31.215Z"
+  },
+  "nike-api": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T02:24:35.007Z"
+  },
+  "nike:au": {
+   "ok": true,
+   "elementos": 11,
+   "ultimo_ok": "2026-11-28T04:26:45.329Z"
+  },
+  "nike:be": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:29.446Z"
+  },
+  "nike:ca": {
+   "ok": true,
+   "elementos": 15,
+   "ultimo_ok": "2026-11-28T04:25:59.298Z"
+  },
+  "nike:co": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:26:03.561Z"
+  },
+  "nike:cr": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:26:10.203Z"
+  },
+  "nike:de": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:19.957Z"
+  },
+  "nike:es": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:15.088Z"
+  },
+  "nike:fr": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:17.551Z"
+  },
+  "nike:gb": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:12.628Z"
+  },
+  "nike:id": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:57.866Z"
+  },
+  "nike:it": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:22.412Z"
+  },
+  "nike:jp": {
+   "ok": true,
+   "elementos": 13,
+   "ultimo_ok": "2026-11-28T04:26:38.684Z"
+  },
+  "nike:kr": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:41.101Z"
+  },
+  "nike:mx": {
+   "ok": true,
+   "elementos": 13,
+   "ultimo_ok": "2026-11-28T04:26:01.343Z"
+  },
+  "nike:my": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:53.713Z"
+  },
+  "nike:nl": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:26.876Z"
+  },
+  "nike:nz": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:26:47.037Z"
+  },
+  "nike:pe": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:26:05.752Z"
+  },
+  "nike:ph": {
+   "ok": true,
+   "elementos": 10,
+   "ultimo_ok": "2026-11-28T04:26:51.693Z"
+  },
+  "nike:pl": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:31.963Z"
+  },
+  "nike:pt": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:24.541Z"
+  },
+  "nike:se": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:33.988Z"
+  },
+  "nike:sg": {
+   "ok": true,
+   "elementos": 10,
+   "ultimo_ok": "2026-11-28T04:26:43.165Z"
+  },
+  "nike:th": {
+   "ok": true,
+   "elementos": 10,
+   "ultimo_ok": "2026-11-28T04:26:55.804Z"
+  },
+  "nike:tr": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T04:26:36.471Z"
+  },
+  "nike:tw": {
+   "ok": true,
+   "elementos": 10,
+   "ultimo_ok": "2026-11-28T04:26:48.994Z"
+  },
+  "nike:us": {
+   "ok": true,
+   "elementos": 18,
+   "ultimo_ok": "2026-11-28T04:25:56.786Z"
+  },
+  "nike:uy": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:26:08.334Z"
+  },
+  "planificar": {
+   "ok": true,
+   "elementos": 6,
+   "ultimo_ok": "2026-11-28T04:35:00.198Z"
+  },
+  "rss:abc-mart-gs": {
+   "ok": true,
+   "elementos": 1,
+   "ultimo_ok": "2026-11-28T04:27:28.404Z",
+   "error": "rss abc-mart-gs: HTTP 403"
+  },
+  "rss:basket4ballers": {
+   "ok": false,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-27T09:57:25.362Z",
+   "error": "rss basket4ballers: no es un feed RSS/Atom/ICS"
+  },
+  "rss:chocale": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:27:42.078Z"
+  },
+  "rss:deadstock": {
+   "ok": true,
+   "elementos": 51,
+   "ultimo_ok": "2026-11-28T04:27:33.883Z"
+  },
+  "rss:dropstore": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:27:50.694Z",
+   "error": "rss dropstore: sin respuesta (TimeoutError)"
+  },
+  "rss:footshop-blog": {
+   "ok": false,
+   "elementos": null,
+   "ultimo_ok": null,
+   "error": "rss footshop-blog: HTTP 403"
+  },
+  "rss:hypebeast-kr": {
+   "ok": true,
+   "elementos": 2,
+   "ultimo_ok": "2026-11-28T04:27:21.313Z"
+  },
+  "rss:justfreshkicks": {
+   "ok": true,
+   "elementos": 11,
+   "ultimo_ok": "2026-11-28T04:27:57.355Z"
+  },
+  "rss:mita-draw": {
+   "ok": false,
+   "elementos": null,
+   "ultimo_ok": null,
+   "error": "rss mita-draw: HTTP 403"
+  },
+  "rss:moov": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:27:52.920Z",
+   "error": "rss moov: HTTP 526"
+  },
+  "rss:nicekicks": {
+   "ok": true,
+   "elementos": 64,
+   "ultimo_ok": "2026-11-28T04:27:59.234Z"
+  },
+  "rss:peru-retail": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:27:55.559Z",
+   "error": "rss peru-retail: sin respuesta (TimeoutError)"
+  },
+  "rss:shoesmaster": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:27:24.165Z",
+   "error": "rss shoesmaster: sin respuesta (TimeoutError)"
+  },
+  "rss:shoesmaster-news": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:27:26.144Z"
+  },
+  "rss:sneakersbr": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:27:40.450Z"
+  },
+  "rss:sneakershouts": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T04:28:00.825Z"
+  },
+  "rss:snkrempire": {
+   "ok": true,
+   "elementos": 45,
+   "ultimo_ok": "2026-11-28T04:27:35.880Z"
+  },
+  "rss:solesavy": {
+   "ok": true,
+   "elementos": 2,
+   "ultimo_ok": "2026-11-28T04:28:02.796Z"
+  },
+  "rss:uptown-deluxe": {
+   "ok": true,
+   "elementos": 8,
+   "ultimo_ok": "2026-11-28T04:27:31.392Z",
+   "error": "rss uptown-deluxe: HTTP 520"
+  },
+  "sbd": {
+   "ok": true,
+   "elementos": 1,
+   "ultimo_ok": "2026-11-28T02:29:07.965Z",
+   "error": "sbd 4: sin respuesta (TimeoutError)"
+  },
+  "seguimiento": {
+   "ok": true,
+   "elementos": 122,
+   "ultimo_ok": "2026-11-27T23:54:21.212Z"
+  },
+  "shopify-buscar": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T00:18:52.766Z",
+   "error": "shopify-buscar havenshop.com|JJ7604-001: HTTP 404"
+  },
+  "shopify-ficha": {
+   "ok": true,
+   "elementos": 1,
+   "ultimo_ok": "2026-11-28T00:07:40.744Z",
+   "error": "shopify-ficha: HTTP 429"
+  },
+  "shopify-moneda": {
+   "ok": true,
+   "elementos": 1,
+   "ultimo_ok": "2026-11-22T00:19:31.985Z",
+   "error": "shopify-moneda havenshop.com: HTTP 404"
+  },
+  "shopify:a-ma-maniere.com": {
+   "ok": true,
+   "elementos": 35,
+   "ultimo_ok": "2026-11-28T00:28:06.160Z",
+   "error": "shopify a-ma-maniere.com: HTTP 429"
+  },
+  "shopify:antonia.it": {
+   "ok": true,
+   "elementos": 6,
+   "ultimo_ok": "2026-11-28T00:23:28.735Z",
+   "error": "shopify antonia.it: HTTP 429"
+  },
+  "shopify:asphaltgold.com:raffles": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T00:22:04.752Z",
+   "error": "shopify asphaltgold.com:raffles: HTTP 429"
+  },
+  "shopify:asphaltgold.com:sneaker-releases": {
+   "ok": true,
+   "elementos": 20,
+   "ultimo_ok": "2026-11-28T00:22:16.807Z",
+   "error": "shopify asphaltgold.com:sneaker-releases: HTTP 429"
+  },
+  "shopify:bdgastore.com": {
+   "ok": true,
+   "elementos": 31,
+   "ultimo_ok": "2026-11-28T00:28:30.176Z",
+   "error": "shopify bdgastore.com: HTTP 429"
+  },
+  "shopify:blendsus.com": {
+   "ok": true,
+   "elementos": 33,
+   "ultimo_ok": "2026-11-28T00:28:18.146Z",
+   "error": "shopify blendsus.com: HTTP 429"
+  },
+  "shopify:bold.cl:lanzamientos": {
+   "ok": true,
+   "elementos": 28,
+   "ultimo_ok": "2026-11-28T00:24:16.890Z",
+   "error": "shopify bold.cl:lanzamientos: HTTP 429"
+  },
+  "shopify:bowsandarrowsberkeley.com:new-releases": {
+   "ok": true,
+   "elementos": 50,
+   "ultimo_ok": "2026-11-28T00:28:42.135Z"
+  },
+  "shopify:ca.kith.com:drawings": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T00:25:28.800Z",
+   "error": "shopify ca.kith.com:drawings: HTTP 429"
+  },
+  "shopify:capsuletoronto.com": {
+   "ok": true,
+   "elementos": 33,
+   "ultimo_ok": "2026-11-28T00:24:52.891Z",
+   "error": "shopify capsuletoronto.com: HTTP 429"
+  },
+  "shopify:cncpts.com": {
+   "ok": true,
+   "elementos": 3,
+   "ultimo_ok": "2026-11-28T00:28:54.111Z"
+  },
+  "shopify:corporategotem.com": {
+   "ok": true,
+   "elementos": 12,
+   "ultimo_ok": "2026-11-28T00:29:06.231Z"
+  },
+  "shopify:courtsidesneakers.com:new-releases": {
+   "ok": true,
+   "elementos": 28,
+   "ultimo_ok": "2026-11-28T00:29:18.126Z"
+  },
+  "shopify:crepdogcrew.com:dropped-now": {
+   "ok": true,
+   "elementos": 46,
+   "ultimo_ok": "2026-11-28T00:19:52.992Z",
+   "error": "shopify crepdogcrew.com:dropped-now: HTTP 429"
+  },
+  "shopify:culturekings.com.au": {
+   "ok": true,
+   "elementos": 3,
+   "ultimo_ok": "2026-11-28T00:19:04.830Z",
+   "error": "shopify culturekings.com.au: HTTP 429"
+  },
+  "shopify:deadstock.ca": {
+   "ok": true,
+   "elementos": 23,
+   "ultimo_ok": "2026-11-28T00:25:40.905Z",
+   "error": "shopify deadstock.ca: HTTP 429"
+  },
+  "shopify:dtlr.com": {
+   "ok": true,
+   "elementos": 21,
+   "ultimo_ok": "2026-11-28T00:29:30.154Z"
+  },
+  "shopify:en.afew-store.com:sneaker-releases": {
+   "ok": true,
+   "elementos": 27,
+   "ultimo_ok": "2026-11-28T00:21:52.862Z",
+   "error": "shopify en.afew-store.com:sneaker-releases: HTTP 429"
+  },
+  "shopify:endclothing.com:launches": {
+   "ok": true,
+   "elementos": 35,
+   "ultimo_ok": "2026-11-28T00:23:16.823Z",
+   "error": "shopify endclothing.com:launches: HTTP 429"
+  },
+  "shopify:extrabutterny.com:release-draws": {
+   "ok": true,
+   "elementos": 5,
+   "ultimo_ok": "2026-11-28T00:29:42.108Z"
+  },
+  "shopify:feature.com:featured-releases": {
+   "ok": true,
+   "elementos": 37,
+   "ultimo_ok": "2026-11-28T00:29:54.270Z"
+  },
+  "shopify:footdistrict.com:drops": {
+   "ok": true,
+   "elementos": 24,
+   "ultimo_ok": "2026-11-28T00:23:04.828Z",
+   "error": "shopify footdistrict.com:drops: HTTP 429"
+  },
+  "shopify:havenshop.com": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T00:25:05.133Z"
+  },
+  "shopify:highsandlows.net.au": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T00:19:16.855Z",
+   "error": "shopify highsandlows.net.au: HTTP 429"
+  },
+  "shopify:hype.com.co:lanzamientos": {
+   "ok": true,
+   "elementos": 45,
+   "ultimo_ok": "2026-11-28T00:24:28.893Z",
+   "error": "shopify hype.com.co:lanzamientos: HTTP 429"
+  },
+  "shopify:invincible.com.tw": {
+   "ok": true,
+   "elementos": 4,
+   "ultimo_ok": "2026-11-28T00:21:28.746Z",
+   "error": "shopify invincible.com.tw: HTTP 429"
+  },
+  "shopify:jdsports.ca": {
+   "ok": true,
+   "elementos": 40,
+   "ultimo_ok": "2026-11-28T00:25:16.838Z",
+   "error": "shopify jdsports.ca: HTTP 429"
+  },
+  "shopify:juicestore.com": {
+   "ok": true,
+   "elementos": 9,
+   "ultimo_ok": "2026-11-28T00:19:41.389Z",
+   "error": "shopify juicestore.com: HTTP 429"
+  },
+  "shopify:kickslab.com": {
+   "ok": true,
+   "elementos": 45,
+   "ultimo_ok": "2026-11-28T00:20:16.891Z",
+   "error": "shopify kickslab.com: HTTP 429"
+  },
+  "shopify:kith.com:drawings": {
+   "ok": true,
+   "elementos": 15,
+   "ultimo_ok": "2026-11-28T00:30:06.242Z",
+   "error": "shopify kith.com:drawings: HTTP 429"
+  },
+  "shopify:lapstoneandhammer.com:releases": {
+   "ok": true,
+   "elementos": 17,
+   "ultimo_ok": "2026-11-28T00:30:18.143Z",
+   "error": "shopify lapstoneandhammer.com:releases: HTTP 429"
+  },
+  "shopify:limitededt.com": {
+   "ok": true,
+   "elementos": 20,
+   "ultimo_ok": "2026-11-28T00:21:04.811Z",
+   "error": "shopify limitededt.com: HTTP 429"
+  },
+  "shopify:lustmexico.com": {
+   "ok": true,
+   "elementos": 33,
+   "ultimo_ok": "2026-11-28T00:24:40.865Z",
+   "error": "shopify lustmexico.com: HTTP 429"
+  },
+  "shopify:nakedcph.com": {
+   "ok": true,
+   "elementos": 36,
+   "ultimo_ok": "2026-11-28T00:22:40.924Z",
+   "error": "shopify nakedcph.com: HTTP 429"
+  },
+  "shopify:nomadshop.net": {
+   "ok": true,
+   "elementos": 28,
+   "ultimo_ok": "2026-11-28T00:26:58.573Z",
+   "error": "shopify nomadshop.net: HTTP 429"
+  },
+  "shopify:notre-shop.com": {
+   "ok": true,
+   "elementos": 15,
+   "ultimo_ok": "2026-11-28T00:30:30.134Z",
+   "error": "shopify notre-shop.com: HTTP 429"
+  },
+  "shopify:nrml.ca": {
+   "ok": true,
+   "elementos": 11,
+   "ultimo_ok": "2026-11-28T00:27:10.504Z",
+   "error": "shopify nrml.ca: HTTP 429"
+  },
+  "shopify:oneblockdown.com:release": {
+   "ok": true,
+   "elementos": 20,
+   "ultimo_ok": "2026-11-28T00:23:40.796Z",
+   "error": "shopify oneblockdown.com:release: HTTP 429"
+  },
+  "shopify:onenessboutique.com:raffles": {
+   "ok": true,
+   "elementos": 1,
+   "ultimo_ok": "2026-11-28T00:30:42.118Z",
+   "error": "shopify onenessboutique.com:raffles: HTTP 429"
+  },
+  "shopify:overkillshop.com:raffle": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T00:22:28.706Z",
+   "error": "shopify overkillshop.com:raffle: HTTP 429"
+  },
+  "shopify:packershoes.com": {
+   "ok": true,
+   "elementos": 11,
+   "ultimo_ok": "2026-11-28T00:30:54.115Z",
+   "error": "shopify packershoes.com: HTTP 429"
+  },
+  "shopify:patta.nl": {
+   "ok": true,
+   "elementos": 12,
+   "ultimo_ok": "2026-11-28T00:24:04.928Z",
+   "error": "shopify patta.nl: HTTP 429"
+  },
+  "shopify:raffles.afew-store.com": {
+   "ok": true,
+   "elementos": 28,
+   "ultimo_ok": "2026-11-28T00:21:40.970Z",
+   "error": "shopify raffles.afew-store.com: HTTP 429"
+  },
+  "shopify:reebok.com": {
+   "ok": true,
+   "elementos": 33,
+   "ultimo_ok": "2026-11-28T00:27:53.909Z",
+   "error": "shopify reebok.com: HTTP 429"
+  },
+  "shopify:renarts.com:release-draws": {
+   "ok": true,
+   "elementos": 50,
+   "ultimo_ok": "2026-11-28T00:31:06.242Z",
+   "error": "shopify renarts.com:release-draws: HTTP 429"
+  },
+  "shopify:rezetstore.com:releases": {
+   "ok": true,
+   "elementos": 3,
+   "ultimo_ok": "2026-11-28T00:22:52.813Z",
+   "error": "shopify rezetstore.com:releases: HTTP 429"
+  },
+  "shopify:shoepalace.com": {
+   "ok": true,
+   "elementos": 50,
+   "ultimo_ok": "2026-11-28T00:31:18.117Z",
+   "error": "shopify shoepalace.com: HTTP 429"
+  },
+  "shopify:shopnicekicks.com": {
+   "ok": true,
+   "elementos": 44,
+   "ultimo_ok": "2026-11-28T00:31:30.272Z",
+   "error": "shopify shopnicekicks.com: HTTP 429"
+  },
+  "shopify:size.ca": {
+   "ok": true,
+   "elementos": 49,
+   "ultimo_ok": "2026-11-28T00:27:23.697Z",
+   "error": "shopify size.ca: HTTP 429"
+  },
+  "shopify:slamjam.com:drops": {
+   "ok": true,
+   "elementos": 50,
+   "ultimo_ok": "2026-11-28T00:23:52.934Z",
+   "error": "shopify slamjam.com:drops: HTTP 429"
+  },
+  "shopify:sneakerpolitics.com:releases": {
+   "ok": true,
+   "elementos": 3,
+   "ultimo_ok": "2026-11-28T00:31:42.081Z",
+   "error": "shopify sneakerpolitics.com:releases: HTTP 429"
+  },
+  "shopify:sneakersnstuff.com:upcoming-releases": {
+   "ok": true,
+   "elementos": 3,
+   "ultimo_ok": "2026-11-28T00:20:52.750Z",
+   "error": "shopify sneakersnstuff.com:upcoming-releases: HTTP 429"
+  },
+  "shopify:socialstatuspgh.com": {
+   "ok": true,
+   "elementos": 28,
+   "ultimo_ok": "2026-11-28T00:31:54.178Z",
+   "error": "shopify socialstatuspgh.com: HTTP 429"
+  },
+  "shopify:solestop.com": {
+   "ok": true,
+   "elementos": 7,
+   "ultimo_ok": "2026-11-28T00:27:35.738Z",
+   "error": "shopify solestop.com: HTTP 429"
+  },
+  "shopify:solewhat.com": {
+   "ok": true,
+   "elementos": 32,
+   "ultimo_ok": "2026-11-28T00:21:16.874Z",
+   "error": "shopify solewhat.com: HTTP 429"
+  },
+  "shopify:store.unionlosangeles.com:new-releases": {
+   "ok": true,
+   "elementos": 42,
+   "ultimo_ok": "2026-11-28T00:32:18.192Z",
+   "error": "shopify store.unionlosangeles.com:new-releases: HTTP 429"
+  },
+  "shopify:superkicks.in": {
+   "ok": true,
+   "elementos": 37,
+   "ultimo_ok": "2026-11-28T00:20:04.821Z",
+   "error": "shopify superkicks.in: HTTP 429"
+  },
+  "shopify:titan22.com": {
+   "ok": true,
+   "elementos": 43,
+   "ultimo_ok": "2026-11-28T00:20:40.852Z",
+   "error": "shopify titan22.com: HTTP 429"
+  },
+  "shopify:undefeated.com": {
+   "ok": true,
+   "elementos": 21,
+   "ultimo_ok": "2026-11-28T00:32:06.154Z",
+   "error": "shopify undefeated.com: HTTP 429"
+  },
+  "shopify:undefeated.jp": {
+   "ok": true,
+   "elementos": 11,
+   "ultimo_ok": "2026-11-28T00:20:28.768Z",
+   "error": "shopify undefeated.jp: HTTP 429"
+  },
+  "shopify:upthereathletics.com:launches": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T00:19:28.696Z",
+   "error": "shopify upthereathletics.com:launches: HTTP 429"
+  },
+  "shopify:wishatl.com:latest-release": {
+   "ok": true,
+   "elementos": 23,
+   "ultimo_ok": "2026-11-28T00:32:30.159Z",
+   "error": "shopify wishatl.com:latest-release: HTTP 429"
+  },
+  "shopify:xhibition.co": {
+   "ok": true,
+   "elementos": 5,
+   "ultimo_ok": "2026-11-28T00:32:42.117Z",
+   "error": "shopify xhibition.co: HTTP 429"
+  },
+  "sj-sorteos": {
+   "ok": true,
+   "elementos": 1,
+   "ultimo_ok": "2026-11-27T23:05:11.220Z",
+   "error": "sj-sorteos: HTTP 502"
+  },
+  "sneakerfiles": {
+   "ok": true,
+   "elementos": 192,
+   "ultimo_ok": "2026-11-28T02:24:51.628Z"
+  },
+  "sneakerjagers": {
+   "ok": true,
+   "elementos": 36,
+   "ultimo_ok": "2026-11-28T04:27:18.461Z",
+   "error": "sneakerjagers de: sin respuesta (TimeoutError)"
+  },
+  "sneakernews": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T02:29:29.926Z"
+  },
+  "sorteos": {
+   "ok": true,
+   "elementos": 0,
+   "ultimo_ok": "2026-11-28T03:05:01.593Z"
+  }
+ },
+ "origen": "vigilante"
+}

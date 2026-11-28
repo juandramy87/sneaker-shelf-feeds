@@ -1,0 +1,26 @@
+{
+ "actualizado": "2026-11-28T12:29:18.174Z",
+ "modelos": 70,
+ "grupos": {
+  "EU": {
+   "consultados": 54,
+   "errores": 0,
+   "eventos72h": 10
+  },
+  "US": {
+   "consultados": 67,
+   "errores": 0,
+   "eventos72h": 45
+  },
+  "JP": {
+   "consultados": 51,
+   "errores": 0,
+   "eventos72h": 10
+  },
+  "CN": {
+   "consultados": 36,
+   "errores": 0,
+   "eventos72h": 28
+  }
+ }
+}
